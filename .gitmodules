@@ -1,0 +1,168 @@
+[submodule "Yara-Rules_rules"]
+	path = Yara-Rules_rules
+	url = git@github.com:Yara-Rules/rules.git
+[submodule "AlienVaultLabs"]
+	path = AlienVaultLabs
+	url = git@github.com:AlienVault-Labs/AlienVaultLabs.git
+[submodule "bamfdetect"]
+	path = bamfdetect
+	url = git@github.com:bwall/bamfdetect.git
+[submodule "bartblaze_Yara-rules"]
+	path = bartblaze_Yara-rules
+	url = git@github.com:bartblaze/Yara-rules.git
+[submodule "binaryalert"]
+	path = binaryalert
+	url = git@github.com:airbnb/binaryalert.git
+[submodule "Burp-Yara-Rules"]
+	path = Burp-Yara-Rules
+	url = git@github.com:codewatchorg/Burp-Yara-Rules.git
+[submodule "CAPEv2"]
+	path = CAPEv2
+	url = git@github.com:kevoreilly/CAPEv2.git
+[submodule "CDI_yara"]
+	path = CDI_yara
+	url = git@github.com:CyberDefenses/CDI_yara.git
+[submodule "malware-signatures"]
+	path = malware-signatures
+	url = git@github.com:citizenlab/malware-signatures.git
+[submodule "ConventionEngine"]
+	path = ConventionEngine
+	url = git@github.com:stvemillertime/ConventionEngine.git
+[submodule "deadbits_yara-rules"]
+	path = deadbits_yara-rules
+	url = git@github.com:deadbits/yara-rules.git
+[submodule "DidierStevensSuite"]
+	path = DidierStevensSuite
+	url = git@github.com:DidierStevens/DidierStevensSuite.git
+[submodule "protections-artifacts"]
+	path = protections-artifacts
+	url = git@github.com:elastic/protections-artifacts.git
+[submodule "malware-ioc"]
+	path = malware-ioc
+	url = git@github.com:eset/malware-ioc.git
+[submodule "indicators"]
+	path = indicators
+	url = git@github.com:fideliscyber/indicators.git
+[submodule "red_team_tool_countermeasures"]
+	path = red_team_tool_countermeasures
+	url = git@github.com:mandiant/red_team_tool_countermeasures.git
+[submodule "signature-base"]
+	path = signature-base
+	url = git@github.com:Neo23x0/signature-base.git
+[submodule "f0wl_yara_rules"]
+	path = f0wl_yara_rules
+	url = git@github.com:f0wl/yara_rules.git
+[submodule "fboldewin_Yara-rules"]
+	path = fboldewin_Yara-rules
+	url = git@github.com:fboldewin/YARA-rules.git
+[submodule "EmersonElectricCo_fsf"]
+	path = EmersonElectricCo_fsf
+	url = git@github.com:EmersonElectricCo/fsf.git
+[submodule "godaddy_yara-rules"]
+	path = godaddy_yara-rules
+	url = git@github.com:godaddy/yara-rules.git
+[submodule "GCTI"]
+	path = GCTI
+	url = git@github.com:chronicle/GCTI.git
+[submodule "h3x2b_yara-rules"]
+	path = h3x2b_yara-rules
+	url = git@github.com:h3x2b/yara-rules.git
+[submodule "Icewater"]
+	path = Icewater
+	url = git@github.com:SupportIntelligence/Icewater.git
+[submodule "imp0rtp3_yara-rules"]
+	path = imp0rtp3_yara-rules
+	url = git@github.com:imp0rtp3/yara-rules.git
+[submodule "intezer_yara-rules"]
+	path = intezer_yara-rules
+	url = git@github.com:intezer/yara-rules.git
+[submodule "InQuest_yara-rules"]
+	path = InQuest_yara-rules
+	url = git@github.com:InQuest/yara-rules.git
+[submodule "jeFF0Falltrades_YARA-Signatures"]
+	path = jeFF0Falltrades_YARA-Signatures
+	url = git@github.com:jeFF0Falltrades/YARA-Signatures.git
+[submodule "kevthehermit_YaraRules"]
+	path = kevthehermit_YaraRules
+	url = git@github.com:kevthehermit/YaraRules.git
+[submodule "Hestat_lw-yara"]
+	path = Hestat_lw-yara
+	url = git@github.com:Hestat/lw-yara.git
+[submodule "Cyber-Defence"]
+	path = Cyber-Defence
+	url = git@github.com:nccgroup/Cyber-Defence.git
+[submodule "YARA_Rules"]
+	path = MalGamy_YARA_Rules
+	url = git@github.com:MalGamy/YARA_Rules.git
+[submodule "malice-plugin_yara"]
+	path = malice-plugin_yara
+	url = git@github.com:malice-plugins/yara.git
+[submodule "signator-rules"]
+	path = signator-rules
+	url = git@github.com:malpedia/signator-rules.git
+[submodule "advanced-threat-research_IOCs"]
+	path = advanced-threat-research_IOCs
+	url = git@github.com:advanced-threat-research/IOCs.git
+[submodule "mikesxrs_Open-Source-YARA-rules"]
+	path = mikesxrs_Open-Source-YARA-rules
+	url = git@github.com:mikesxrs/Open-Source-YARA-rules.git
+[submodule "prolsen_yara-rules"]
+	path = prolsen_yara-rules
+	url = git@github.com:prolsen/yara-rules.git
+[submodule "qs_old"]
+	path = qs_old
+	url = git@github.com:tylabs/qs_old.git
+[submodule "rastrea2r"]
+	path = rastrea2r
+	url = git@github.com:rastrea2r/rastrea2r.git
+[submodule "reversinglabs-yara-rules"]
+	path = reversinglabs-yara-rules
+	url = git@github.com:reversinglabs/reversinglabs-yara-rules.git
+[submodule "securitymagic_yara"]
+	path = securitymagic_yara
+	url = git@github.com:securitymagic/yara.git
+[submodule "sophos_yaraml_rule"]
+	path = sophos_yaraml_rules
+	url = git@github.com:sophos/yaraml_rules.git
+[submodule "SpiderLabs_malware-analysis"]
+	path = SpiderLabs_malware-analysis
+	url = git@github.com:SpiderLabs/malware-analysis.git
+[submodule "DailyIOC"]
+	path = DailyIOC
+	url = git@github.com:StrangerealIntel/DailyIOC.git
+[submodule "PhishingKit-Yara-Rules"]
+	path = PhishingKit-Yara-Rules
+	url = git@github.com:t4d/PhishingKit-Yara-Rules.git
+[submodule "telekom-security_malware_analysis"]
+	path = telekom-security_malware_analysis
+	url = git@github.com:telekom-security/malware_analysis.git
+[submodule "tenable_yara-rule"]
+	path = tenable_yara-rules
+	url = git@github.com:tenable/yara-rules.git
+[submodule "tjnel_yara_repo"]
+	path = tjnel_yara_repo
+	url = git@github.com:tjnel/yara_repo.git
+[submodule "VectraThreatLab/reyara"]
+	path = VectraThreatLab/reyara
+	url = git@github.com:VectraThreatLab/reyara.git
+[submodule "volexity/threat-intel"]
+	path = volexity_threat-intel/threat-intel
+	url = git@github.com:volexity/threat-intel.git
+[submodule "VectraThreatLab_reyara"]
+	path = VectraThreatLab_reyara
+	url = git@github.com:VectraThreatLab/reyara.git
+[submodule "x64dbg_yarasigs"]
+	path = x64dbg_yarasigs
+	url = git@github.com:x64dbg/yarasigs.git
+[submodule "wrayjustin_yaids"]
+	path = wrayjustin_yaids
+	url = git@github.com:wrayjustin/yaids.git
+[submodule "Xumeiquer_yara-forensics"]
+	path = Xumeiquer_yara-forensics
+	url = git@github.com:Xumeiquer/yara-forensics.git
+[submodule "yara4pentesters"]
+	path = yara4pentesters
+	url = git@github.com:DiabloHorn/yara4pentesters.git
+[submodule "fr0gger_Yara_Unprotect"]
+	path = fr0gger_Yara_Unprotect
+	url = git@github.com:fr0gger/Yara-Unprotect.git
