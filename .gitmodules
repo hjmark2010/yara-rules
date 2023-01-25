@@ -103,9 +103,6 @@
 [submodule "advanced-threat-research_IOCs"]
 	path = advanced-threat-research_IOCs
 	url = git@github.com:advanced-threat-research/IOCs.git
-[submodule "mikesxrs_Open-Source-YARA-rules"]
-	path = mikesxrs_Open-Source-YARA-rules
-	url = git@github.com:mikesxrs/Open-Source-YARA-rules.git
 [submodule "prolsen_yara-rules"]
 	path = prolsen_yara-rules
 	url = git@github.com:prolsen/yara-rules.git
@@ -166,3 +163,6 @@
 [submodule "fr0gger_Yara_Unprotect"]
 	path = fr0gger_Yara_Unprotect
 	url = git@github.com:fr0gger/Yara-Unprotect.git
+[submodule "mikesxrs_Open-Source-YARA-rules"]
+	path = mikesxrs_Open-Source-YARA-rules
+	url = git@github.com:mikesxrs/Open-Source-YARA-rules.git
